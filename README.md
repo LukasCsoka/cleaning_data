@@ -1,4 +1,4 @@
-# cleeaning_data
+# cleaning_data
 
 This is a repository for Coursera.org course Getting and Cleaning Data. 
 
